@@ -1,0 +1,8 @@
+15;Single;1;180,69;False;
+16;Single;1;180,69;True;Teodor
+17;Single;1;180,69;False;     
+18;Single;1;280,69;True;Marka
+19;Single;1;280,69;False;     
+115;double;2;380,69;False;     
+116;double;2;380,69;True;Kaloyan
+117;double;2;480,69;False;     

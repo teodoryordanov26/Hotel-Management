@@ -1,0 +1,8 @@
+C:\teodor\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\teodor\HotelManagement\bin\Debug\HotelManagement.exe
+C:\teodor\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\teodor\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\teodor\HotelManagement\obj\Debug\HotelManagement.csproj.SuggestedBindingRedirects.cache
+C:\teodor\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\teodor\HotelManagement\obj\Debug\HotelManagement.exe
+C:\teodor\HotelManagement\obj\Debug\HotelManagement.pdb
